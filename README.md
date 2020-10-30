@@ -2,8 +2,8 @@
 
 Steps to be followed to run the project : 
 
-1 - You need to have Jupyter notebook installed, and then create a virtual environment using the command : conda create --name myenv
-    Here, I have created the environment called FaceRecognition.
+1 - You need to have Jupyter notebook installed, and then create a virtual environment using the command : conda create --name myenv. 
+      Here, I have created the environment called FaceRecognition.
     
 2 - Once the virtual environment is created, we then activate the environment with the command : conda activate myenv and then travel to the directory where the         project has been stored.
 
