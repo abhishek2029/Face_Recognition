@@ -16,3 +16,4 @@ Steps to be followed to run the project :
 The files included in the project are : 3 files for capturing the face image, training of the image and then for recognition. The 'dataset' folder will contain the images captured while 'trainer' folder will have the train.yml file. The 'user_names.txt' will have the names of the users. 
 
 ** This a real time face recognition project using OpenCV **
+** Store all the files in one common folder **
